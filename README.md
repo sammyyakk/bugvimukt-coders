@@ -1,4 +1,6 @@
 # Sentiment Analysis on Social Media Comments
+## BugVimukt Coder
+### Samyak Jain | Chetna Negi | Avika Singh | Kamakshi Mudgal
 
 This project is designed to perform sentiment analysis on comments from Instagram posts and reels. It helps identify the emotional tone (Positive, Neutral, or Negative) of user-generated content, providing insights into public opinion and engagement on social media platforms.
 
